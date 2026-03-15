@@ -1,0 +1,5 @@
+TODO:
+mostrar pergunta aleatoria
+um campo de texto pro player digitar a solucao, botão de solução
+servidor: vc vai poder criar ou entrar numa sala
+usar IA para verificar o código do player baseado na pergunta com OpenRouter
